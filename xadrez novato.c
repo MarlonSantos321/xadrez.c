@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    
     // Movimentação da Torre (5 casas para a direita)
     printf("Movimento da Torre:\n");
     for (int i = 0; i < 5; i++) {
@@ -26,3 +27,4 @@ int main() {
 
     return 0;
 }
+
